@@ -1,0 +1,50 @@
+/* NAV SECTION */
+
+body {
+    display: block;
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    background-color: white;
+}
+
+nav ul li a {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    margin: auto 10px;
+    text-decoration: none;
+}
+
+a.nav-link:hover {color: black; text-decoration: underline;}
+
+/* INTRO SECTION */
+
+#introduction {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins';
+    text-align: center;
+    padding: 100px;
+}
+
+#timeline {
+    padding: 75px;
+}
+
+#designProcess {
+    padding: 25px;  
+}
+
+.container h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+/* RESEARCH SECTION */
+
+#research h6 {
+    padding-bottom: 0%;
+}
